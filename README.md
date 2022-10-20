@@ -1,5 +1,3 @@
-[![latest](https://img.shields.io/github/v/release/serhiops/
-whistleblower_esp8266_bot.svg?color=brightgreen)](https://github.com/serhiops/whistleblower_esp8266_bot/releases/latest/download/whistleblower_esp8266_bot.zip)
 ![](https://komarev.com/ghpvc/?username=serhiops)
 
 # Whistleblower bot
